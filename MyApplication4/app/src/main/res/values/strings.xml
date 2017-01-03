@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Working with activities</string>
+    <string name="about_text">
+    У лукоморья дуб зелёный;\n
+    Златая цепь на дубе том:\n
+    И днём и ночью <b>кот учёный</b>\n
+    Всё ходит по цепи кругом;\n
+    Идёт <b>направо</b> - песнь заводит,\n
+    <b>Налево</b> - сказку говорит.</string>
+    <string name="about_title">About</string>
+    <string name="toAnotherActivity">To Another Activity</string>
+    <string name="title_activity_main2">Second Activity</string>
+    <string name="toSecondActivity">to Second Activity</string>
+    <string name="main">Welcome!</string>
+</resources>
